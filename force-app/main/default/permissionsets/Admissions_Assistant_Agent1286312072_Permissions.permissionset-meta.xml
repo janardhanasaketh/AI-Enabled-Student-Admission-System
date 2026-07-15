@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Allows custom permissions for Agentforce Agent : Admissions_Assistant_Agent&apos;s agent user : admissions_assistant_agent@00dgk00000tkpml1432261399.ext.</description>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>Admissions_Assistant_Agent1286312072 Permissions</label>
+    <license>Einstein Agent</license>
+</PermissionSet>
